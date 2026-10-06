@@ -11,10 +11,15 @@ I enjoy creating clean, maintainable and scalable applications, working with arc
 ### 🚀 What I work with
 
 **iOS** · Swift · Objective-C · UIKit · SwiftUI
+
 **Flutter** · Dart
+
 **Architecture** · MVVM · VIPER · Clean Architecture
+
 **Testing** · XCTest · Unit Testing
+
 **Tools** · Xcode · SPM · Git · Fastlane · CI/CD
+
 
 ---
 
@@ -36,5 +41,7 @@ This profile is focused on **iOS & Flutter projects**, where I share examples of
 
 ### 📫 Let's connect
 ✉️ alvarezantonio46@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/antonioalvarezdev/
+
 📍 Seville, Spain · 🌍 Open to Remote opportunities
